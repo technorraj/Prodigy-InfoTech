@@ -1,4 +1,4 @@
-# Keylogger (Educational Purpose Only)
+# Keylogger
 
 This Python program implements a basic keylogger designed for **educational and ethical** use only. It records the keystrokes made during a specified time period and logs them to a local text file along with timestamps.
 
@@ -36,7 +36,7 @@ Run the Script:
 python Keylogger.py
  ```
 
-- **Accept Terms and Conditions**: Enter y to proceed.
+- **Accept Terms and Conditions**: Enter `y` to proceed.
 
 - **Enter Duration**: Input the number of seconds to log keystrokes.
 
