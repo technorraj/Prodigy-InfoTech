@@ -33,7 +33,7 @@ Before the program starts, users are required to accept terms and conditions tha
 ## Usage
 Run the Script:
  ```bash
-python keylogger.py
+python Keylogger.py
  ```
 
 - **Accept Terms and Conditions**: Enter y to proceed.
