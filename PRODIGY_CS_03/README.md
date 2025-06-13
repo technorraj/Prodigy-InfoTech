@@ -37,7 +37,7 @@ The project uses only Python's built-in libraries and was developed as part of a
 ## Usage
 
 1. **Run the Program:**
-   - Execute the script using Python:
+   - Execute the script using Python
 
 2. **Review Tips:**
    - The program will display helpful guidelines for secure password creation.
